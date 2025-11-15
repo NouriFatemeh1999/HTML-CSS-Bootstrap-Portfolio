@@ -1,0 +1,56 @@
+.background-color {
+    background: #010602;
+  }
+
+.hero-font {
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    font-weight: 400; 
+    color: white;
+}
+
+.profile-img {
+  height: 200px;
+  width: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.round {
+  border-radius: 50%;
+}
+
+
+.title {
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5rem;
+    font-weight: 500;
+}
+
+.skill-img {
+    width: 220px;
+    height: 220px;
+    object-fit: cover;
+    border-radius: 35%;
+}
+
+.col-md-8 {
+    margin-left: -10px;
+}
+
+.skill-text {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;  
+    font-size: 1.25rem;
+    line-height: 1.6;
+}
+
+.rtl-text {
+    direction: rtl;
+    text-align: right;
+}
+
+.bottom-container {
+    background-color: #010602;
+    color: white;
+}
